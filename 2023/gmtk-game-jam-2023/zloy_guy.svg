@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1139"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="zloy_guy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1141"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="336.78664"
+     inkscape:cy="293.04127"
+     inkscape:window-width="2011"
+     inkscape:window-height="1406"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1136" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffc6d8;fill-opacity:1;stroke:#a12b50;stroke-width:4.236;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2480-2"
+       width="82.839256"
+       height="20.709814"
+       x="83.288506"
+       y="52.43454"
+       rx="10.354907"
+       ry="10.354907"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\Enemy\idle.png"
+       inkscape:export-xdpi="61.068298"
+       inkscape:export-ydpi="61.068298" />
+    <rect
+       style="fill:#a12b50;fill-opacity:1;stroke:none;stroke-width:2.72399;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect3781-3"
+       width="10.884019"
+       height="20.967289"
+       x="144.88885"
+       y="52.43454"
+       rx="5.4420094"
+       ry="5.4420094"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\Enemy\idle.png"
+       inkscape:export-xdpi="61.068298"
+       inkscape:export-ydpi="61.068298" />
+    <rect
+       style="fill:#e64377;fill-opacity:1;stroke-width:12.7654;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect1516"
+       width="128"
+       height="128"
+       x="0"
+       y="0"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\Enemy\idle.png"
+       inkscape:export-xdpi="61.068298"
+       inkscape:export-ydpi="61.068298" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffc6d8;fill-opacity:1;stroke-width:10.2954;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path1964"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="101.36964"
+       sodipodi:cy="298.89136"
+       sodipodi:r1="93.218315"
+       sodipodi:r2="46.609158"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 101.36964,392.10967 20.640206,252.2822 l 161.458854,0 z"
+       transform="matrix(0.14391055,0,0,0.14391055,44.447995,50.71856)"
+       inkscape:transform-center-y="3.3537753"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\Enemy\idle.png"
+       inkscape:export-xdpi="61.068298"
+       inkscape:export-ydpi="61.068298" />
+    <rect
+       style="fill:#a12b50;fill-opacity:1;stroke-width:2.85366;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect2156"
+       width="99.920433"
+       height="6.6212401"
+       x="40.109455"
+       y="80.403389"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\Enemy\idle.png"
+       inkscape:export-xdpi="61.068298"
+       inkscape:export-ydpi="61.068298" />
+    <rect
+       style="fill:#ffc6d8;fill-opacity:1;stroke:#a12b50;stroke-width:4.236;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2480"
+       width="82.839256"
+       height="20.709814"
+       x="10.804153"
+       y="52.43454"
+       rx="10.354907"
+       ry="10.354907"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\Enemy\idle.png"
+       inkscape:export-xdpi="61.068298"
+       inkscape:export-ydpi="61.068298" />
+    <rect
+       style="fill:#a12b50;fill-opacity:1;stroke:none;stroke-width:2.72399;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect3781"
+       width="10.884019"
+       height="20.967289"
+       x="72.404488"
+       y="52.43454"
+       rx="5.4420094"
+       ry="5.4420094"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\Enemy\idle.png"
+       inkscape:export-xdpi="61.068298"
+       inkscape:export-ydpi="61.068298" />
+    <path
+       id="path6562"
+       style="fill:#a12b50;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       inkscape:transform-center-x="1.2105683"
+       inkscape:transform-center-y="-1.2105679"
+       d="M 89.449886,36.784079 96.427377,42.935916 93.643413,52.43454 46.33795,40.292398 84.697562,41.536403 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\Enemy\idle.png"
+       inkscape:export-xdpi="61.068298"
+       inkscape:export-ydpi="61.068298" />
+    <path
+       id="path6562-9"
+       style="fill:#a12b50;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       inkscape:transform-center-x="-1.2105683"
+       inkscape:transform-center-y="-1.2105679"
+       d="m 117.91764,36.784079 -6.97749,6.151837 2.78397,9.498624 47.30546,-12.142142 -38.35961,1.244005 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\Enemy\idle.png"
+       inkscape:export-xdpi="61.068298"
+       inkscape:export-ydpi="61.068298" />
+  </g>
+</svg>

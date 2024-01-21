@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="97.182411mm"
+   height="98.803444mm"
+   viewBox="0 0 97.182411 98.803444"
+   version="1.1"
+   id="svg933"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="tutorial boy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview935"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:zoom="0.6708123"
+     inkscape:cx="99.878908"
+     inkscape:cy="395.78881"
+     inkscape:window-width="2004"
+     inkscape:window-height="1406"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs930">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter15638"
+       x="-0.089953652"
+       y="-0.24177839"
+       width="1.1799073"
+       height="1.4835568">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.3204468"
+         id="feGaussianBlur15640" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.5219122,-1.4790827)">
+    <path
+       id="rect12466-7-7"
+       style="fill:#171717;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 88.163813,59.886428 1.775084,2.91105 -3.821625,7.809267 -4.170546,-3.735789 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <rect
+       style="fill:#272727;fill-opacity:1;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect10392"
+       width="7.7534509"
+       height="12.064207"
+       x="81.842628"
+       y="67.078247"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect8790"
+       style="fill:#272727;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 57.16789,60.053464 c 2.071951,34.209765 3.108243,44.240686 24.620459,10.686079 l 3.299172,1.590621 C 75.363945,93.571493 52.947887,124.20136 51.447713,64.718025 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect8002"
+       style="fill:#272727;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       transform="rotate(8.5429432)"
+       d="m 29.164709,52.304993 h 8.541996 c -4.597682,14.648187 -6.896312,29.212017 0,43.438469 h -8.541996 c -2.51576,-14.101579 -4.528895,-28.278661 0,-43.438469 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <rect
+       style="fill:#767676;fill-opacity:1;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6744"
+       width="7.9377489"
+       height="18.784363"
+       x="1.6991352"
+       y="57.658379"
+       transform="rotate(-17.495697)"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <rect
+       style="fill:#767676;fill-opacity:1;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6744-3"
+       width="7.9377489"
+       height="18.784363"
+       x="-85.569382"
+       y="2.4267008"
+       transform="matrix(-0.76099981,-0.6487521,-0.6487521,0.76099981,0,0)"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6532"
+       width="25.937578"
+       height="41.967884"
+       x="20.701939"
+       y="57.176311"
+       transform="rotate(-5.6539575)"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect1016"
+       style="fill:#110005;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 24.454183,21.002989 67.06946,5.817729 -12.128486,30.962151 H 17.650398 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect1410"
+       style="fill:#676767;fill-opacity:1;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 5.5219122,44.076691 14.396413,1.4790827 21.266024,16.245849 13.59631,59.560733 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect1410-6"
+       style="fill:#767676;fill-opacity:1;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 82.877988,2.8102592 14.396413,1.4790827 21.266024,16.245849 94.648042,23.781919 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect2416"
+       style="fill:#767676;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 21.266024,16.245849 3.188159,4.75714 -6.803785,36.77988 -4.054088,1.777864 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect2416-4"
+       style="fill:#939393;fill-opacity:1;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 94.648042,23.781919 -2.846251,3.186707 -67.347608,-5.965637 -3.188159,-4.75714 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="path4560"
+       style="fill:#676767;stroke-width:16.0101;stroke-linejoin:round;paint-order:markers stroke fill"
+       inkscape:transform-center-x="0.1479089"
+       inkscape:transform-center-y="-1.3509919"
+       transform="scale(0.26458333)"
+       d="M 66.710167,218.39195 H 300.07619 l 7.93156,18.857 -256.620121,-12.13752 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect6042"
+       style="fill:#5e5e5e;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 91.523643,26.820718 94.648042,23.781919 81.493716,62.772117 79.395157,57.782869 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect9901"
+       style="fill:#c64a4a;fill-opacity:1;stroke-width:16.0101;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 338.63086,240.78516 v 14.93164 l -44.92578,12.03711 44.92578,44.92578 v 8.26758 l 26.31848,3.91317 23.22449,-3.91317 v -80.16211 l -28.34887,-8.10584 z m 0,21.49414 v 36.84179 l -29.05469,-29.05468 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect12466"
+       style="fill:#171717;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 88.376025,72.409073 0.941283,3.27706 -5.612836,9.064206 -3.033023,-4.706415 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect12466-7"
+       style="fill:#171717;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 85.482451,70.247609 0.941283,3.27706 -5.752285,6.519255 -3.033023,-4.706415 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="path13253"
+       style="fill:#5b252f;fill-opacity:1;stroke-width:16.0101;stroke-linejoin:round;paint-order:markers stroke fill"
+       inkscape:transform-center-x="-0.43564655"
+       inkscape:transform-center-y="0.43564694"
+       transform="scale(0.26458333)"
+       d="m 360.53821,255.37212 -19.58623,-10.47905 19.15099,-8.20316 24.31047,8.31672 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <rect
+       style="fill:#5fff00;fill-opacity:1;stroke-width:3.22971;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect14416"
+       width="20.559263"
+       height="2.1782067"
+       x="31.814314"
+       y="38.216846"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <rect
+       style="fill:#5fff00;fill-opacity:1;stroke-width:3.22971;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect14416-2"
+       width="6.9968596"
+       height="2.1782074"
+       x="64.407265"
+       y="20.007284"
+       transform="rotate(24.220463)"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <rect
+       style="fill:#5fff00;fill-opacity:1;stroke-width:3.22971;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect14416-2-0"
+       width="6.9968596"
+       height="2.1782074"
+       x="-37.764992"
+       y="65.969177"
+       transform="matrix(-0.91197366,0.41024877,0.41024877,0.91197366,0,0)"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect14416-1"
+       style="fill:#5fff00;stroke-width:3.22971;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 51.334732,52.188773 v 0 l 2.370366,5.139617 -3.844927,-3.536416 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect14416-1-6"
+       style="fill:#5fff00;stroke-width:3.22971;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 56.377706,52.303509 v 0 l 2.370366,5.139617 -3.844927,-3.536416 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect14416-1-4"
+       style="fill:#5fff00;stroke-width:3.22971;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 61.17359,52.220418 v 0 l 2.370366,5.139617 -3.844927,-3.536416 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       sodipodi:type="star"
+       style="fill:#5fff00;fill-opacity:1;stroke-width:16.0101;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path14784"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="138.63789"
+       sodipodi:cy="147.39594"
+       sodipodi:r1="17.706341"
+       sodipodi:r2="8.8531704"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 138.63789,165.10228 -15.33414,-26.55951 30.66828,-1e-5 z"
+       transform="matrix(0.26458333,0,0,0.26458333,10.022481,2.5798129)"
+       inkscape:transform-center-y="1.1712002"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <rect
+       style="fill:#5fff00;fill-opacity:1;stroke-width:3.22971;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect14416-9"
+       width="20.559263"
+       height="2.1782067"
+       x="62.931274"
+       y="38.787811"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       sodipodi:type="star"
+       style="fill:#5fff00;fill-opacity:1;stroke-width:16.0101;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path14784-9"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="138.63789"
+       sodipodi:cy="147.39594"
+       sodipodi:r1="17.706341"
+       sodipodi:r2="8.8531704"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.26458333,0,0,0.26458333,41.40135,3.1507773)"
+       inkscape:transform-center-y="1.1712002"
+       d="m 138.63789,165.10228 -15.33414,-26.55951 30.66828,-1e-5 z"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125" />
+    <path
+       id="rect14416-3"
+       style="opacity:0.756243;mix-blend-mode:normal;fill:#5fff00;fill-opacity:1;stroke-width:12.2068;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter15638)"
+       d="m 122.22656,-70.992188 v 8.232422 h 42.91202 l 12.80469,22.177735 12.80469,-22.177735 h 9.18368 v -8.232422 z m 117.60742,2.158204 v 8.232422 h 43.27507 l 12.80469,22.177734 12.80469,-22.177734 h 8.82063 v -8.232422 z m -46.87109,22.228515 -3.37695,7.507813 24.11523,10.847656 24.11719,-10.847656 -3.37695,-7.507813 -20.73829,9.328125 z m 3.04102,28.419922 -5.57227,6.060547 14.53125,13.3652344 z m 37.1875,0.119141 -5.57422,6.060547 14.5332,13.365234 z m -18.12696,0.314453 -5.57226,6.060547 14.53125,13.3652341 z"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.52466146,57.000511)"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\Animations\tutor2.png"
+       inkscape:export-xdpi="132.65125"
+       inkscape:export-ydpi="132.65125"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

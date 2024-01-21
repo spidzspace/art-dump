@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="76.134171mm"
+   height="104.2916mm"
+   viewBox="0 0 76.134171 104.2916"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="flag.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="67.08285"
+     inkscape:cy="403.24246"
+     inkscape:window-width="2004"
+     inkscape:window-height="1406"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboardwhite"
+       id="pattern4178"
+       patternTransform="matrix(10,0,0,10,0,7.2968128)" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboardwhite"
+       inkscape:stockid="Checkerboard white"
+       inkscape:isstock="true">
+      <rect
+         style="fill:white;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect3004" />
+      <rect
+         style="fill:white;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect3006" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.8005486,-6.9763446)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:4.23601;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect3958"
+       width="64.969086"
+       height="44.138454"
+       x="19.965635"
+       y="20.960939"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\finish.png"
+       inkscape:export-xdpi="337.30701"
+       inkscape:export-ydpi="337.30701" />
+    <rect
+       style="fill:url(#pattern4178);fill-opacity:1;stroke-width:14.9823;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect1846"
+       width="64.969086"
+       height="44.138454"
+       x="19.965635"
+       y="20.960939"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\finish.png"
+       inkscape:export-xdpi="337.30701"
+       inkscape:export-ydpi="337.30701" />
+    <rect
+       style="fill:#402512;fill-opacity:1;stroke-width:16.9171;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect846"
+       width="10.829373"
+       height="97.464363"
+       x="11.946522"
+       y="13.803576"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\finish.png"
+       inkscape:export-xdpi="337.30701"
+       inkscape:export-ydpi="337.30701" />
+    <rect
+       style="fill:#3a2512;fill-opacity:1;stroke-width:16.1652;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect1544"
+       width="17.121325"
+       height="17.121325"
+       x="8.8005486"
+       y="6.9763446"
+       rx="8.5606623"
+       ry="8.5606623"
+       inkscape:export-filename="D:\work\GMTK2023\Assets\Textures\finish.png"
+       inkscape:export-xdpi="337.30701"
+       inkscape:export-ydpi="337.30701" />
+  </g>
+</svg>
